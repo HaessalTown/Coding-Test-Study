@@ -38,11 +38,11 @@
             <a href="https://solved.ac/profile/qazw181900">solved.ac</a>
         </td>
         <td align="center">
-            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=brylimo" />
+            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=tourist0302" />
             <br />
-            <a href="https://www.acmicpc.net/user/brylimo">Baekjoon</a>
+            <a href="https://www.acmicpc.net/user/tourist0302">Baekjoon</a>
             <br />
-            <a href="https://solved.ac/profile/brylimo">solved.ac</a>
+            <a href="https://solved.ac/profile/tourist0302">solved.ac</a>
         </td>
     </tr>
 </table>
