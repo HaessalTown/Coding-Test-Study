@@ -111,6 +111,7 @@
 | 22주차    | 2024.06.02_30689_미로-보수       | [미로 보수](https://www.acmicpc.net/problem/30689) | 박상빈 | 임채진, 김훈민 | `진행 완료`   |
 | 23주차    | 2024.06.16_2565_전깃줄       | [전깃줄](https://www.acmicpc.net/problem/2565) | 임채진 | 박상빈, 김훈민 | `진행 완료`   |
 | 24주차    | 2024.06.23_3020_개똥벌레       | [개똥벌레](https://www.acmicpc.net/problem/3020) | 김훈민 | 박상빈, 임채진 | `진행 완료`   |
+| 25주차    | 2024.06.30_1로-이루어진-집합의-크기       | [1로 이루어진 집합의 크기](https://www.codetree.ai/training-field/search/problems/size-of-set-of-1s/description?page=1&pageSize=20&name=1%EB%A1%9C) | 박상빈 | 김훈민, 임채진 | `진행 완료`   |
 
 
 
