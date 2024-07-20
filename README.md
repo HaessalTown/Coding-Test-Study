@@ -113,7 +113,8 @@
 | 24주차    | 2024.06.23_3020_개똥벌레       | [개똥벌레](https://www.acmicpc.net/problem/3020) | 김훈민 | 박상빈, 임채진 | `진행 완료`   |
 | 25주차    | 2024.06.30_1로-이루어진-집합의-크기       | [1로 이루어진 집합의 크기](https://www.codetree.ai/training-field/search/problems/size-of-set-of-1s/description?page=1&pageSize=20&name=1%EB%A1%9C) | 박상빈 | 김훈민, 임채진 | `진행 완료`   |
 | 26주차    | 2024.07.06_11967_불켜기       | [불켜기](https://www.acmicpc.net/problem/11967) | 임채진 | 박상빈, 김훈민 | `진행 완료`   |
-| 27주차    | 2024.07.13_14226_이모티콘       | [이모티콘](https://www.acmicpc.net/problem/14226) | 김훈민 | 임채진, 노진원 | `진행 완료`   |
+| 27주차    | 2024.07.13_14226_이모티콘       | [이모티콘](https://www.acmicpc.net/problem/14226) | 김훈민 | 임채진, 박상빈 | `진행 완료`   |
+| 28주차    | 2024.07.20_원소의-합이-0       | [원소의-합이-0](https://www.codetree.ai/missions/8/problems/the-sum-of-the-elements-is-0/description) | 박상빈 | 임채진, 김훈민 | `진행 완료`   |
 
 
 
