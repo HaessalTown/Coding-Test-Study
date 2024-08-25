@@ -117,6 +117,7 @@
 | 28주차    | 2024.07.20_원소의-합이-0       | [원소의-합이-0](https://www.codetree.ai/missions/8/problems/the-sum-of-the-elements-is-0/description) | 박상빈 | 임채진, 김훈민 | `진행 완료`   |
 | 29주차    | 2024.08.04_최대로-연속한-숫자       | [최대로 연속한 숫자](https://www.codetree.ai/missions/8/problems/maximum-consecutive-number/description) | 임채진 | 박상빈, 김훈민 | `진행 완료`   |
 | 30주차    | 2024.08.11_19952_태상이의-훈련소-생활       | [태상이의 훈련소 생활](https://www.acmicpc.net/problem/19951) | 김훈민 | 박상빈, 임채진 | `진행 완료`   |
+| 31주차    | 2024.08.25_1655_가운데를-말해요       | [가운데를-말해요](https://www.acmicpc.net/problem/1655) | 박상빈 | 임채진, 김훈민 | `진행 완료`   |
 
 
 
