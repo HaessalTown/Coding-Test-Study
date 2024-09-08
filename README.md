@@ -118,7 +118,7 @@
 | 29주차    | 2024.08.04_최대로-연속한-숫자       | [최대로 연속한 숫자](https://www.codetree.ai/missions/8/problems/maximum-consecutive-number/description) | 임채진 | 박상빈, 김훈민 | `진행 완료`   |
 | 30주차    | 2024.08.11_19952_태상이의-훈련소-생활       | [태상이의 훈련소 생활](https://www.acmicpc.net/problem/19951) | 김훈민 | 박상빈, 임채진 | `진행 완료`   |
 | 31주차    | 2024.08.25_1655_가운데를-말해요       | [가운데를-말해요](https://www.acmicpc.net/problem/1655) | 박상빈 | 임채진, 김훈민 | `진행 완료`   |
-
+| 32주차    | 2024.09.08_최소_차_분할      | [최소-차-분할](https://www.codetree.ai/missions/2/problems/minimum-diff-partition/description) | 임채진 | 박상빈, 김훈민, 주한새 | `진행 완료`   |
 
 
 
