@@ -21,6 +21,11 @@
             <br />
             <a href="https://github.com/Brylimo">임채진</a>
         </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/Verssae"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/31765697?v=4"/></a>
+            <br />
+            <a href="https://github.com/Verssae">주한새</a>
+        </td>
     </tr>
       <tr height="50px">
         <td align="center">
@@ -43,6 +48,13 @@
             <a href="https://www.acmicpc.net/user/tourist0302">Baekjoon</a>
             <br />
             <a href="https://solved.ac/profile/tourist0302">solved.ac</a>
+        </td>
+        <td align="center">
+            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=sparky" />
+            <br />
+            <a href="https://www.acmicpc.net/user/sparky">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/sparky">solved.ac</a>
         </td>
     </tr>
 </table>
