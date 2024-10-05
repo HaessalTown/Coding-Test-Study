@@ -132,6 +132,7 @@
 | 31주차    | 2024.08.25_1655_가운데를-말해요       | [가운데를-말해요](https://www.acmicpc.net/problem/1655) | 박상빈 | 임채진, 김훈민 | `진행 완료`   |
 | 32주차    | 2024.09.08_최소_차_분할      | [최소-차-분할](https://www.codetree.ai/missions/2/problems/minimum-diff-partition/description) | 임채진 | 박상빈, 김훈민, 주한새 | `진행 완료`   |
 | 33주차    | 2024.09.21_1655_뮤탈리스크      | [뮤탈리스크](https://www.acmicpc.net/problem/12869) | 김훈민 | 박상빈, 임채진, 주한새 | `진행 완료`   |
+| 34주차    | 2024.10.05_15684_사다리-조작      | [사다리조작](https://www.acmicpc.net/problem/15684) | 박상빈 | 김훈민, 임채진, 주한새 | `진행 완료`   |
 
 
 
