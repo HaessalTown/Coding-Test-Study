@@ -144,3 +144,4 @@
 | 43주차    | 2025.02.22_10986_나머지_합      | [나머지-합](https://www.acmicpc.net/problem/10986) | 박상빈 | 김훈민, 임채진 | `진행 완료`   |
 | 44주차    | 2025.03.16_6782_현주가_좋아하는_제곱근_놀이 | [현주가-좋아하는-제곱근-놀이](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWgqsAlKr9sDFAW0) | 임채진 | 김훈민, 박상빈 | `진행 완료`  |
 | 45주차    | 2025.04.05_42890_후보키 | [후보키](https://school.programmers.co.kr/learn/courses/30/lessons/42890) | 김훈민 | 박상빈, 임채진 | `진행 완료`  |
+| 46주차    | 2025.04.20_2169_로봇-조종하기 | [로봇-조종하기](https://www.acmicpc.net/problem/2169) | 박상빈 | 김훈민, 임채진 | `진행 완료`  |
