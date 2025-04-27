@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/2024.01.06_18428_감시-피하기" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2024.02.18_2533_사회망-서비스" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2024.03.10_14891_톱니바퀴" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2024.03.24_1938_통나무-옮기기" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2024.03.31_1715_카드-정렬하기" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2024.04.07_19539_사과나무" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2024.04.21_6087_레이저-통신" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2024.05.18_1707_이분-그래프" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2024.05.26_14925_목장-건설하기" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2024.06.02_30689_미로-보수" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2024.06.16_2565_전깃줄" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2024.06.23_3020_개똥벌레" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2024.07.06_11967_불켜기" isTestSource="false" packagePrefix="BJ" />
+      <sourceFolder url="file://$MODULE_DIR$/2024.07.13_14226_이모티콘" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2024.07.20_원소의-합이-0" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2024.08.11_19952_태상이의-훈련소-생활" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2024.08.25_1655_가운데를_말해요" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2024.09.08_최소_차_분할" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2024.09.21_12869_뮤탈리스크" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2024.10.12_2146_다리-만들기" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2024.11.03_14466_소가-길을-건너간-이유-6" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2024.11.24_합승_택시_요금" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2024.12.01_3078_좋은-친구" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2024.12.22_17244_아맞다우산" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

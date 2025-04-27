@@ -22,12 +22,19 @@ public class Solution {
                     cnt = current.cnt;
                     break;
                 }
+
+                // 제곱근 유리
+                // 제곱근이 되나 안되나
+                // 제곱근 o 
+                // + 1 -> 스택에 넣어버리면 -> 스택 꺼내도 
+                // 제곱근 sqrt(11) -> 3 -> + 1
+                // (3 + 1) * 4 = 16 // cnt + (16 - 11)
                  
-                if (Math.sqrt(current.num) != (long)Math.sqrt(current.num)) { // sqrt한 값이 정수이면
+                if (Math.sqrt(current.num) != (long)Math.sqrt(current.num)) { 
                     long temp = ((long)Math.sqrt(current.num) + 1) * ((long)Math.sqrt(current.num) + 1);
                      
                     stack.add(new Pair(temp, current.cnt + temp - current.num));
-                } else {
+                } else {// sqrt한 값이 정수이면
                     stack.add(new Pair((long)Math.sqrt(current.num), current.cnt + 1));
                 }
             }

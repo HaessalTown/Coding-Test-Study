@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/2025.01.05_11003_최솟값찾기" isTestSource="false" packagePrefix="BJ" />
+      <sourceFolder url="file://$MODULE_DIR$/2025.01.12_8980_택배" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2025.02.16_1368_물대기" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2025.02.22_10986_나머지-합" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2025.03.16_6782_현주가_좋아하는_제곱근_놀이" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
